@@ -1,4 +1,4 @@
-# Crypto_market_analysis
+# Crypto_Market_Analysis
 Time-series analysis of cryptocurrency prices with data preprocessing and visualization in Python.
 Time-series analysis of the top 100 cryptocurrencies, focusing on volatility dynamics, return distributions, and comparative asset behavior with data preprocessing and visualization in Python.
 ## Project Overview
