@@ -40,8 +40,6 @@ Overall, the cryptocurrency market presents significant opportunity — but with
 
 Sample Visualization
 
-(You can add screenshots of your plots here for extra impact.)
-
 ## Project Purpose
 
 This project was developed to strengthen practical skills in time-series data analysis, statistical feature engineering, and market behavior interpretation using real-world financial datasets.
